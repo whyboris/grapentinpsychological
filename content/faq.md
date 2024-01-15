@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: FAQ
 date: '2023-03-03'
 ---
 
