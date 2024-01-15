@@ -1,0 +1,52 @@
+@import "navigation";
+@import "styles";
+@import "mobile";
+
+h1 {
+  margin-bottom: 0;
+}
+
+.profile-photo {
+  float: left;
+  width: 200px;
+  margin-right: 30px;
+  border: 1px solid #666666;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.room-photo {
+  width: 400px;
+}
+
+.align-right {
+  float: right;
+  margin-right: 0;
+  margin-left: 30px;
+}
+
+.credentials {
+  font-size: 16px;
+  color: #333;
+}
+
+.pronouns {
+  font-size: 12px;
+  color: #555;
+  display: block;
+}
+
+.flex-stuff {
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+
+    li {
+      width: 23%;
+    }
+  }
+}
+
+.psychologytoday {
+  width: 120px;
+  transform: translateY(5px);
+}
