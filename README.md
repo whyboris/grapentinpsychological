@@ -2,7 +2,7 @@
 
 My web dev homepage built with _Hugo_
 
-[dailymindfulness.com](https://dailymindfulness.com)
+[grapentinpsychological.com](http://www.grapentinpsychological.com/)
 
 ## Thank you
 
