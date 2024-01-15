@@ -1,5 +1,5 @@
 baseURL = 'https://GrapentinPsychologicalServices.com/'
-googleAnalytics = "G-ABC123"
+googleAnalytics = "G-7Q7YYME1ZS"
 languageCode = 'en-us'
 title = 'Grapentin Psychological Services'
 disableKinds = ["taxonomy", "taxonomyTerm"]
