@@ -1,8 +1,6 @@
 # Grapentin Psychological Services
 
-My web dev homepage built with _Hugo_
-
-[grapentinpsychological.com](http://www.grapentinpsychological.com/)
+Official code repository for [grapentinpsychological.com](http://www.grapentinpsychological.com/)
 
 ## Thank you
 
