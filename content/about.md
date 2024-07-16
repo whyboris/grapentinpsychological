@@ -7,7 +7,7 @@ date: '2023-03-03'
 
 # Andrew Grapentin
 
-<span class="credentials">LPC, CDBT</span>
+<span class="credentials">LPC</span>
 
 As your therapist, my goal is to offer you a dedicated place to navigate life’s challenges and to offer you tools that will help you foster long-term growth and change. Whether those challenges include anxiety, depression, PTSD, LGBTQ, or grief, I want to work with you to increase your quality of life.
 

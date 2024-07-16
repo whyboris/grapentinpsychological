@@ -7,7 +7,7 @@ date: '2023-03-03'
 
 # Andrew Grapentin
 
-LPC, CDBT
+LPC
 
 In Practice for 7 Years, currently in the Swartz Creek / Lapeer region.
 
