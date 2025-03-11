@@ -18,7 +18,6 @@ date: '2023-03-03'
 - Aetna
 - BlueCross and BlueShield
 - Cigna and Evernorth
-- McLaren
 - Oscar Health
 - Oxford
 - UnitedHealthcare UHC | UBH
